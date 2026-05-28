@@ -1,19 +1,19 @@
 ## Installation & Setup
 
-### Method 1: Download & Drag (Recommended)
-The easiest way to install the bookmarklet is to download the pre-configured shortcut file directly from this repository and add it to your browser.
+### Method 1: Interactive Web Setup (Recommended)
+To prevent your browser or Windows security from blocking the shortcut file, install it via the project's web page:
 
 1. Ensure your browser's **Bookmarks Bar** is visible (`Ctrl + Shift + B` or `Cmd + Shift + B`).
-2. Download the `AEM Environment Toggle.url` file from the file list at the top of this repository.
-3. Drag the downloaded file from your computer's **Downloads** folder and drop it directly onto your browser's Bookmarks bar.
+2. Go to the deployment page: **[INSERT YOUR GITHUB PAGES URL HERE]**
+3. Simply **click, drag, and drop** the green button onto your browser's Bookmarks bar.
 
 ---
 
 ### Method 2: Manual Link Creation (Fallback)
-If you prefer not to download a file, you can create the bookmark manually in your browser:
+If you prefer to configure it yourself, you can build the bookmark manually:
 
 1. Right-click an empty space on your Bookmarks Bar and select **Add Page** (or **Add Bookmark**).
-2. Set the **Name** to something recognizable, like `➡️ AEM Toggle`.
+2. Set the **Name** to: `➡️ AEM Toggle`.
 3. Copy the entire raw JavaScript block below and paste it into the **URL** field:
 
 ```text
