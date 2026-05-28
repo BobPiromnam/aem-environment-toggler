@@ -4,7 +4,7 @@
 To prevent your browser or Windows security from blocking the shortcut file, install it via the project's web page:
 
 1. Ensure your browser's **Bookmarks Bar** is visible (`Ctrl + Shift + B` or `Cmd + Shift + B`).
-2. Go to the deployment page: **[INSERT YOUR GITHUB PAGES URL HERE]**
+2. Go to the deployment page: **https://github.com/BobPiromnam/aem-environment-toggler**
 3. Simply **click, drag, and drop** the green button onto your browser's Bookmarks bar.
 
 ---
